@@ -1,5 +1,6 @@
+// PROGRAM KOMPLEKS FAISSS
+// BUAT TOKO HP
 #include <iostream>
-#include <conio.h>
 
 using namespace std;
 
@@ -339,4 +340,8 @@ int main(){
 		
 	}
 	return 0;
+	//program kompleks di buat sederhana mungkin 
+	//agar mudah di pahami
+	//salam Faiss | Huntrx 
+	// # Gk papa coding yang penting jangan lupa sholat 5 waktu :)
 }
