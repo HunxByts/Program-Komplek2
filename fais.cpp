@@ -1,5 +1,6 @@
 // PROGRAM KOMPLEKS FAISSS
 // BUAT TOKO HP
+// RECODE TANPA IZIN/TANPA FORK KENA BALA 8 TURUNAN!!!
 #include <iostream>
 
 using namespace std;
